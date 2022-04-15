@@ -1,7 +1,9 @@
 import React from "react";
+import Room from "./Room";
 
 function Login() {
   return (
+    <>
     <div className=" h-screen flex justify-center items-center bg-slate-800">
       <div className=" flex flex-col gap-6 mt-8">
         <input
@@ -19,6 +21,8 @@ function Login() {
         </button>
       </div>
     </div>
+    <Room/>
+    </>
   );
 }
 
