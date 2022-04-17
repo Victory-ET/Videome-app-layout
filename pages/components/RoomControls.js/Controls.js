@@ -6,7 +6,7 @@ function Controls() {
       <button className=" uppercase px-5 py-2 hover:bg-blue-600">Video</button>
       <button className=" uppercase px-5 py-2 hover:bg-blue-600">Audio</button>
       <button className=" uppercase px-5 py-2 hover:bg-blue-600">Screen Share</button>
-      <button className=" uppercase px-5 py-2 hover:bg-blue-600">Raise Hands</button>
+      <button className=" uppercase px-5 py-2 hover:bg-blue-600">Exit Meeting</button>
       <button className=" uppercase px-5 py-2 hover:bg-blue-600">Switch view</button>
     </div>
   );
